@@ -30,4 +30,5 @@ conda install pytorch torchvision torchaudio cpuonly -c pytorch -y
 conda install numpy pandas matplotlib scipy gymnasium -c conda-forge -y
 ```
 
-![env_1_dynamic_simulation](https://github.com/user-attachments/assets/d75c3291-161f-434b-8b37-d8b8923d26c0)
+![env_2_dynamic_simulation](https://github.com/user-attachments/assets/7f8dacae-38f3-4259-87c0-d4dfb472e321)
+![env_1_dynamic_simulation](https://github.com/user-attachments/assets/e64b0169-48d8-4158-9d29-823e2ccfb6b3)
