@@ -29,3 +29,5 @@ conda activate uav_ppo
 conda install pytorch torchvision torchaudio cpuonly -c pytorch -y
 conda install numpy pandas matplotlib scipy gymnasium -c conda-forge -y
 ```
+
+![env_1_dynamic_simulation](https://github.com/user-attachments/assets/d75c3291-161f-434b-8b37-d8b8923d26c0)
